@@ -1,0 +1,7 @@
+C:/Github/olio-ohjelmointi/kt3teht4/build/CMakeFiles/kt3teht4.dir
+C:/Github/olio-ohjelmointi/kt3teht4/build/CMakeFiles/edit_cache.dir
+C:/Github/olio-ohjelmointi/kt3teht4/build/CMakeFiles/rebuild_cache.dir
+C:/Github/olio-ohjelmointi/kt3teht4/build/CMakeFiles/list_install_components.dir
+C:/Github/olio-ohjelmointi/kt3teht4/build/CMakeFiles/install.dir
+C:/Github/olio-ohjelmointi/kt3teht4/build/CMakeFiles/install/local.dir
+C:/Github/olio-ohjelmointi/kt3teht4/build/CMakeFiles/install/strip.dir

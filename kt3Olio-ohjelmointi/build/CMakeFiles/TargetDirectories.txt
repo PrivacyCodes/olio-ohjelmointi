@@ -1,0 +1,7 @@
+C:/Github/olio-ohjelmointi/kt3Olio-ohjelmointi/build/CMakeFiles/kt3Olio-ohjelmointi.dir
+C:/Github/olio-ohjelmointi/kt3Olio-ohjelmointi/build/CMakeFiles/edit_cache.dir
+C:/Github/olio-ohjelmointi/kt3Olio-ohjelmointi/build/CMakeFiles/rebuild_cache.dir
+C:/Github/olio-ohjelmointi/kt3Olio-ohjelmointi/build/CMakeFiles/list_install_components.dir
+C:/Github/olio-ohjelmointi/kt3Olio-ohjelmointi/build/CMakeFiles/install.dir
+C:/Github/olio-ohjelmointi/kt3Olio-ohjelmointi/build/CMakeFiles/install/local.dir
+C:/Github/olio-ohjelmointi/kt3Olio-ohjelmointi/build/CMakeFiles/install/strip.dir
